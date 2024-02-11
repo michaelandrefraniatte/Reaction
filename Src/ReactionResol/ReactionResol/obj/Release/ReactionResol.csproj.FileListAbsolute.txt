@@ -27,3 +27,15 @@ C:\Users\micha\Documents\File\perso\ReactionResol\Src\ReactionResol\ReactionReso
 C:\Users\micha\Documents\File\perso\ReactionResol\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.csproj.CopyComplete
 C:\Users\micha\Documents\File\perso\ReactionResol\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.exe
 C:\Users\micha\Documents\File\perso\ReactionResol\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.pdb
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\bin\Release\ReactionResol.exe.config
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\bin\Release\ReactionResol.exe
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\bin\Release\ReactionResol.pdb
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\bin\Release\MathNet.Numerics.xml
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.Form1.resources
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.Properties.Resources.resources
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.csproj.CopyComplete
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.exe
+C:\Users\micha\Documents\github\Reaction\Src\ReactionResol\ReactionResol\obj\Release\ReactionResol.pdb
